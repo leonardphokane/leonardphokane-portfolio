@@ -76,6 +76,12 @@ nav ul li a:hover {
     transform: translateY(-5px);
 }
 
+nav .menu-icon {
+    display: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+
 /* Hero Section */
 #hero {
     height: 100vh;
@@ -318,10 +324,19 @@ footer {
     }
 
     nav ul {
+        display: none;
         flex-direction: column;
         gap: 10px;
         width: 100%;
         padding-left: 0;
+    }
+
+    nav .menu-icon {
+        display: block;
+    }
+
+    nav ul.active {
+        display: flex;
     }
 
     #hero {
@@ -352,6 +367,10 @@ footer {
         padding: 50px 20px;
     }
 
+    #about p {
+        word-spacing: 0.02em; /* Reduced spacing for mobile */
+    }
+
     #projects {
         padding: 50px 20px;
     }
@@ -369,4 +388,3 @@ a[href^="mailto:"] {
 a[href^="mailto:"]:hover {
     color: #3498db; /* Optional: change color on hover */
 }
-
