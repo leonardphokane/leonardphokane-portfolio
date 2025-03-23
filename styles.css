@@ -195,7 +195,7 @@ nav .menu-icon {
     box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
     transition: opacity 0.3s ease;
     text-align: justify;
-     word-spacing: 0.04em;
+     word-spacing: 0.02em;
 }
 
 /* Hover Effect for Paragraph */
@@ -330,6 +330,9 @@ footer {
         gap: 10px;
         width: 100%;
         padding-left: 0;
+         position: absolute; /* Allows positioning */
+    right: 0; /* Positions the dropdown to the right */
+    top: 80px; /* Adjust the distance from the top based on your header height */
     }
 
     nav .menu-icon {
