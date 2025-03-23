@@ -390,3 +390,25 @@ a[href^="mailto:"] {
 a[href^="mailto:"]:hover {
     color: #3498db; /* Optional: change color on hover */
 }
+.project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(135deg, #2980b9, #2c3e50); /* Matches header color */
+    color: white;
+}
+
+.project-card:hover h3 {
+    color: #ecf0f1; /* Keeps text readable */
+}
+
+.project-card:hover p {
+    opacity: 0.9;
+}
+.project-card:hover a {
+    color: white;
+}
+
+.project-card a:hover {
+    color: #2980b9; /* This changes the color to the matching header color when hovered */
+    transition: color 0.3s ease;
+}
