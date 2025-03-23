@@ -330,9 +330,7 @@ footer {
         gap: 10px;
         width: 100%;
         padding-left: 0;
-         position: absolute; /* Allows positioning */
-    right: 0; /* Positions the dropdown to the right */
-    top: 80px; /* Adjust the distance from the top based on your header height */
+       
     }
 
     nav .menu-icon {
