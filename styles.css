@@ -369,7 +369,8 @@ footer {
     }
 
     #about p {
-        word-spacing: 0.02em; /* Reduced spacing for mobile */
+        word-spacing: 0.02em;/* Reduced spacing for mobile */
+        text-align: left;
     }
 
     #projects {
