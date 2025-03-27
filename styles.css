@@ -1,4 +1,4 @@
-/* Reset Styles */
+ /* Reset Styles */
 * {
     margin: 0;
     padding: 0;
@@ -411,4 +411,30 @@ a[href^="mailto:"]:hover {
 .project-card a:hover {
     color: #2980b9; /* This changes the color to the matching header color when hovered */
     transition: color 0.3s ease;
+}
+#particles-js, #particles-contact {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+
+.hero-text, .contact-text {
+    position: relative;
+    z-index: 1;
+}
+
+#contact {
+    position: relative; /* Ensure the contact section is positioned relative to contain the absolute particles */
+    padding: 100px 40px;
+    background: #34495e;
+    color: #fff;
+    text-align: center;
+}
+
+#contact .contact-text {
+    position: relative;
+    z-index: 1;
 }
