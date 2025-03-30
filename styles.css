@@ -281,7 +281,7 @@ nav .menu-icon {
     margin-bottom: 20px;
     line-height: 1.6;
     text-align: justify;
-    word-spacing: 0.04em;
+    word-spacing: 0.02em;
     hyphens: auto;
 }
 
@@ -515,6 +515,7 @@ footer {
     text-justify: inter-word;
     hyphens: auto;
          word-break: break-word;
+         line-height: 1.6; 
     }
 
     #projects {
