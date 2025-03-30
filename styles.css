@@ -509,6 +509,11 @@ footer {
 
     .about-text p {
         word-spacing: 0.01em; /* Reduced spacing for mobile */
+          
+                padding: 0 10px; /* Add some padding for better spacing */
+        text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
     }
 
     #projects {
@@ -627,3 +632,58 @@ footer {
     opacity: 1;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
 }
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.skill-card {
+    width: 200px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+}
+
+.skill-card:hover {
+    transform: scale(1.05);
+}
+
+.skill-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.skill-info p {
+    color: black;
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+/* Skill Bar */
+.skill-bar {
+    width: 100%;
+    height: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 8px;
+}
+
+.skill-fill {
+    height: 100%;
+    width: 0;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #ff7eb3, #ff758c, #ff5e62);
+    transition: width 1.5s ease-in-out;
+}
+
+
