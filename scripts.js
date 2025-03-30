@@ -7,7 +7,15 @@ document.addEventListener('DOMContentLoaded', function() {
             navLinks.classList.toggle('active');
         });
     }
+
+    // Initialize skill bars
+    const skillBars = document.querySelectorAll('.skill-bar');
+    skillBars.forEach(bar => {
+        let level = bar.getAttribute('data-level');
+        bar.style.setProperty('--level', level);
+    });
 });
+
 function initParticles(elementId) {
     particlesJS(elementId, {
         particles: {
@@ -36,4 +44,12 @@ function initParticles(elementId) {
 document.addEventListener('DOMContentLoaded', () => {
     initParticles("particles-js");
     initParticles("particles-contact");
+});
+document.addEventListener("DOMContentLoaded", function () {
+    const skillBars = document.querySelectorAll(".skill-fill");
+
+    skillBars.forEach(bar => {
+        const level = bar.getAttribute("data-level");
+        bar.style.width = level + "%"; // Ensure this is working
+    });
 });
