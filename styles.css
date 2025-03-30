@@ -514,6 +514,7 @@ footer {
         text-align: justify;
     text-justify: inter-word;
     hyphens: auto;
+         word-break: break-word;
     }
 
     #projects {
