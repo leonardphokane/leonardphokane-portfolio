@@ -53,3 +53,14 @@ document.addEventListener("DOMContentLoaded", function () {
         bar.style.width = level + "%"; // Ensure this is working
     });
 });
+// scripts.js
+
+// Wait for DOM to load before initializing AOS
+document.addEventListener("DOMContentLoaded", function () {
+  AOS.init({
+    duration: 1000,       // Animation duration in ms
+    easing: "ease-in-out",// Easing function
+    once: true,           // Animate only once while scrolling down
+    mirror: false         // Don't animate while scrolling back up
+  });
+});

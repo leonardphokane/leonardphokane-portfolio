@@ -398,6 +398,7 @@ nav .menu-icon {
     transform: scale(1.1);
 }
 
+
 /* Contact Section */
 #contact {
     padding: 100px 40px;
@@ -689,3 +690,66 @@ footer {
 }
 
 
+
+/* Certifications Section Wrapper */
+#licenses-certifications {
+  margin-top: 0;
+  padding-top: 0;
+  text-align: center; /* 👈 Center everything inside */
+}
+
+/* Heading Style (matches Azhar's Frameworks/Tools) */
+.section-title {
+  font-size: 24px;
+  color: #333333;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  margin-bottom: 1.5rem;
+}
+
+/* Certifications Grid */
+.certifications-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+/* Certification Card */
+.cert-card {
+  background-color: #fff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.3s ease;
+}
+
+.cert-card:hover {
+  transform: translateY(-5px);
+}
+
+.cert-card img {
+  width: 80px;
+  margin-bottom: 1rem;
+}
+
+.cert-card h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.cert-card p {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 0.75rem;
+}
+
+.cert-level {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+  border-radius: 20px;
+  background-color: #e6f0fa;
+  color: #0078d4;
+}
