@@ -15,16 +15,17 @@ I'm a BSc IT graduate, Oracle & Microsoft-certified AI associate, and founder of
 As an Oracle and Microsoft-certified AI associate, I bring a strong foundation in cloud-native development, ethical deployment, and generative AI workflows. My learning journey reflects a commitment to responsible technology and Afro-futurist innovation.
 
 ### ✅ Certifications
+<div align="center">
+  <img src="images/azure-ai-foundations.png" alt="Azure AI Badge" width="140" style="margin-right: 20px;" />
+  <img src="images/oracle-ai-essentials.jpeg" alt="Oracle AI Badge" width="140" />
+</div>
 
-![Azure AI Badge](images/azure-ai-foundations.png)  
-**Microsoft Azure AI Essentials Professional Certificate (2025)**  
-Scored **82%** in core modules covering Generative AI, Azure AI Studio, and ethical cloud-native development.  
-Proficient in designing and evaluating AI models within scalable Azure environments.
+<p align="center">
+  <strong>Microsoft Azure AI Essentials</strong> — Scored 82% | Certified in ethical AI, model evaluation, and Azure ML workflows.  
+  <br>
+  <strong>Oracle AI Foundations Associate</strong> — Certified in OCI AI lifecycle, responsible deployment, and automation.
+</p>
 
-![Oracle AI Badge](images/oracle-ai-essentials.jpeg)  
-**Oracle Certified AI Foundations Associate (2025)**  
-Focused on cloud computing, responsible automation, and ethical AI principles.  
-Demonstrates my commitment to deploying technology that serves communities with integrity.
 
 ### 📚 Currently Enrolled
 
@@ -74,7 +75,7 @@ Here are some featured projects that reflect my technical depth and creative dir
 ## 📬 Contact Me
 
 - 📧 Email: [leonardphokane.dev@gmail.com](mailto:leonardphokane.dev@gmail.com)  
-- 🌐 Portfolio: [UbuntuFlow](https://ubuntu-flow.vercel.app)  
+- 🌐 Portfolio: [UbuntuFlow](https://leonardphokane.github.io/leonardphokane-portfolio/)  
 - 💼 LinkedIn: [linkedin.com/in/leonardphokane](https://linkedin.com/in/leonardphokane)  
 - 🐙 GitHub: [github.com/leonardphokane](https://github.com/leonardphokane)
 
