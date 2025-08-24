@@ -16,8 +16,8 @@ As an Oracle and Microsoft-certified AI associate, I bring a strong foundation i
 
 ### ✅ Certifications
 <div align="center">
-  <img src="images/azure-ai-foundations.png" alt="Azure AI Badge" width="140" style="margin-right: 20px;" />
-  <img src="images/oracle-ai-essentials.jpeg" alt="Oracle AI Badge" width="140" />
+  <img src="images/azure-ai-foundations.png" alt="Azure AI Badge" width="180" style="margin-right: 20px;" />
+  <img src="images/oracle-ai-essentials.jpeg" alt="Oracle AI Badge" width="180" />
 </div>
 
 <p align="center">
