@@ -75,7 +75,7 @@ Here are some featured projects that reflect my technical depth and creative dir
 ## 📬 Contact Me
 
 - 📧 Email: [leonardphokane1@gmail.com](mailto:leonardphokane1@gmail.com)  
-- 🌐 Portfolio: [UbuntuFlow](https://leonardphokane.github.io/leonardphokane-portfolio/)  
+- 🌐 Portfolio: [MY PORTFOLIO](https://leonardphokane.github.io/leonardphokane-portfolio/)  
 - 💼 LinkedIn: [linkedin.com/in/leonardphokane](https://linkedin.com/in/leonardphokane)  
 - 🐙 GitHub: [github.com/leonardphokane](https://github.com/leonardphokane)
 
