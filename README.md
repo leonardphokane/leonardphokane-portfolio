@@ -4,6 +4,19 @@ Welcome to my portfolio — a modular showcase of my journey as a certified AI a
 
 ---
 
+## 🌐 View Live Demo
+
+👉 [Click here to view the live portfolio](https://leonardphokane.github.io/leonard-portfolio/)
+
+---
+## 🌌 The Arabic Journey
+![The Arabic Journey](The-Arabic-Journey-ArtWork-scaled.jpg)
+
+
+> *"When I'm gone, let my functions speak."*
+
+---
+
 ## 👤 About Me
 
 I'm a BSc IT graduate, Oracle & Microsoft-certified AI associate, and founder of UbuntuFlow (formerly ZuluTech). My work spans real-time apps, recruiter automation workflows, and open-source storytelling. I believe in building tech that empowers communities and reflects cultural identity.
@@ -75,9 +88,10 @@ Here are some featured projects that reflect my technical depth and creative dir
 ## 📬 Contact Me
 
 - 📧 Email: [leonardphokane1@gmail.com](mailto:leonardphokane1@gmail.com)  
-- 🌐 Portfolio: [Live Portfolio](https://leonardphokane.github.io/leonardphokane-portfolio/)  
-- 💼 LinkedIn: [linkedin.com/in/leonardphokane](https://linkedin.com/in/leonardphokane)  
+- 🌐 Portfolio: [Live Portfolio](https://leonardphokane.github.io/leonard-portfolio/)  
+- 💼 LinkedIn: [linkedin.com/in/leonardphokane](https://linkedin.com/in/leonard-phokane)  
 - 🐙 GitHub: [github.com/leonardphokane](https://github.com/leonardphokane)
+- 🏅 Credly: [credly.com/users/leonard-phokane](https://www.credly.com/users/leonard-phokane)
 
 ---
 
