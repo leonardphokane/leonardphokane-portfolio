@@ -90,7 +90,7 @@ Here are some featured projects that reflect my technical depth and creative dir
 
 - 📧 Email: [leonardphokane1@gmail.com](mailto:leonardphokane1@gmail.com)  
 - 🌐 Portfolio: [Live Portfolio](https://leonardphokane.github.io/leonard-portfolio/)  
-- 💼 LinkedIn: [linkedin.com/in/leonardphokane](https://linkedin.com/in/leonard-phokane)  
+- 💼 LinkedIn: [linkedin.com/in/leonard-phokane](https://linkedin.com/in/leonard-phokane)  
 - 🐙 GitHub: [github.com/leonardphokane](https://github.com/leonardphokane)
 - 🏅 Credly: [credly.com/users/leonard-phokane](https://www.credly.com/users/leonard-phokane)
 
